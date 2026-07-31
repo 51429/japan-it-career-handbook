@@ -1,19 +1,13 @@
-# japan-it-career-handbook
-Free resources for IT engineers building careers in Japan.
-# Japan IT Career Handbook
+日本で働くITエンジニア向けのキャリア情報をまとめたオープンプロジェクトです。
 
-Welcome!
+## 発信内容
 
-This repository collects practical information for IT engineers who want to build a career in Japan.
+- IT業界の市場動向
+- 企業研究
+- 年収情報
+- 面接対策
+- 職務経歴書
+- キャリア設計
+- AI活用
 
-Topics include:
-
-- Salary
-- Interviews
-- Resume
-- Visa
-- AI
-- Companies
-- Career Advice
-
-Updated every week.
+週更新していますよ。
